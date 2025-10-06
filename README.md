@@ -112,9 +112,9 @@ Planned improvements:
 **Nicholai Gay** – *AI Engineer (IronHack Graduate)*  
 Focused on building end-to-end machine learning pipelines, with experience in NLP, LangChain RAG agents, and MLOps workflows.
 
-📍 Amsterdam, NL  
-🔗 [LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/) | [GitHub](https://github.com/QinnniQ) | [Kaggle Profile](https://www.kaggle.com/nicholaigay)
+The Hague, NL  
+[LinkedIn](https://www.linkedin.com/in/nicholai-gay-201905148/) | [GitHub](https://github.com/QinnniQ) | [Kaggle Profile](https://www.kaggle.com/nicholaigay)
 
 ---
 
-> 💡 *This project demonstrates applied MLOps thinking, reproducibility, and hands-on problem solving — key skills for real-world AI engineering.*
+> *This project demonstrates applied MLOps thinking, reproducibility, and hands-on problem solving — key skills for real-world AI engineering.*
