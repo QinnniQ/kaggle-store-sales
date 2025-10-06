@@ -1,11 +1,11 @@
-# 🧮 Store Sales – Time Series Forecasting (Kaggle)
+# Store Sales – Time Series Forecasting (Kaggle)
 
 This repository contains a fully scripted **end-to-end time series forecasting pipeline** for the [Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) competition by Corporación Favorita (Ecuador).  
 It was built entirely in **VS Code** with a **Python 3.11 virtual environment**, following clean engineering practices and reproducible automation.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **Goal:**  
 Predict daily unit sales for thousands of items sold across multiple stores using historical data and external regressors such as oil prices, holidays, and transactions.
@@ -20,7 +20,7 @@ Predict daily unit sales for thousands of items sold across multiple stores usin
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Category | Tools / Libraries |
 |-----------|-------------------|
@@ -34,7 +34,7 @@ Predict daily unit sales for thousands of items sold across multiple stores usin
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 kaggle-store-sales/
@@ -65,7 +65,7 @@ kaggle-store-sales/
 
 ---
 
-## ⚙️ Reproducible Workflow
+## Reproducible Workflow
 
 Run each step from the project root (`C:\Users\<you>\Documents\Kaggle\kaggle-store-sales`):
 
@@ -91,7 +91,7 @@ python -m scripts.submit
 
 ---
 
-## 📊 Results (Baseline)
+## Results (Baseline)
 
 | Metric | Value | Notes |
 |---------|-------|-------|
@@ -107,7 +107,7 @@ Planned improvements:
 
 ---
 
-## 👨‍💻 About the Author
+## About the Author
 
 **Nicholai Gay** – *AI Engineer (IronHack Graduate)*  
 Focused on building end-to-end machine learning pipelines, with experience in NLP, LangChain RAG agents, and MLOps workflows.
